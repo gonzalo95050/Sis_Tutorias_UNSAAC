@@ -18,3 +18,4 @@ Aplicativo web para el control del Sistema de Tutorias de Informatica
 - **Abraham Benjamin Ore Gamarra** - GitHub Account-[benjaminx321](https://github.com/benjaminx321)
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
 - **Luiyi Antony Quispe Palomino** - _GitHub Account_ - [blablabla115](https://github.com/blablabla115)
+- **Bryan Huillca Mozo** - _GitHub Account_ - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
