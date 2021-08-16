@@ -12,6 +12,7 @@ Aplicativo web para el control del Sistema de Tutorias de Informatica
 - **Roxana Lisette Quintanilla** - _Docente_ - [GitHub](https://github.com/nitanilla).
 
 #### Autores:✒️
-- 
-- **Gonzalo Gutierrez Daza** - _GitHub Account_ - [gonzalo95050](https://github.com/gonzalo95050)
+-
+- **Luiyi Antony Quisoe Palomino** - _GitHub Account_ - [blablabla115](https://github.com/blablabla115)
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
+- **Bryan Huillca Mozo** - _GitHub Account_ - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
