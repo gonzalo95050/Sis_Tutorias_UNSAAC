@@ -1,11 +1,11 @@
 # Sis_Tutorias_UNSAAC
-Aplicativo web para el control del Sistema de Tutorias de Informatica
-## Ingenieria de software - Grupo 4
+Aplicativo web para el control del Sistema de Tutorías de la E.P de Informática
+## Ingeniería de Software - Grupo 4
 ### Datos Academicos 📖
 
 - **Institucion:** Universidad Nacional de San Antonio Abad del Cusco
-- **Facultad:** Facultad de ingenieria electrica, electronica, informatica y mecanica
-- **Escuela Profesional:** Ingenieria Informatica y de Sistemas
+- **Facultad:** Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
+- **Escuela Profesional:** Ingeniería Informática y de Sistemas
 
 #### Docente:
 
