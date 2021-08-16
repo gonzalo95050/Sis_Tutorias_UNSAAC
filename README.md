@@ -16,3 +16,4 @@ Aplicativo web para el control del Sistema de Tutorias de Informatica
 - **Gonzalo Gutierrez Daza** - _GitHub Account_ - [gonzalo95050](https://github.com/gonzalo95050)
 - **Antony Isaac Huaman Hermoza** - _GitHub Account_ - [Isaac170434](https://github.com/Isaac170434)
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
+- **Luiyi Antony Quispe Palomino** - _GitHub Account_ - [blablabla115](https://github.com/blablabla115)
