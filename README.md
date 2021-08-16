@@ -19,3 +19,4 @@ Aplicativo web para el control del Sistema de Tutorias de Informatica
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
 - **Luiyi Antony Quispe Palomino** - _GitHub Account_ - [blablabla115](https://github.com/blablabla115)
 - **Bryan Huillca Mozo** - _GitHub Account_ - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
+- **Cristian Luis Guevara Ferro** - _GitHub Account_ - [Cristian1938](https://github.com/cristian1938)
