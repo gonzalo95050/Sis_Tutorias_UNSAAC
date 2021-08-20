@@ -1,0 +1,31 @@
+{
+  "name": "react-crud-hooks-users-table",
+  "version": "0.1.3",
+  "private": true,
+  "homepage": "https://nicholaskylehoffman.github.io/react-crud-hooks-users-table/",
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "react": "^16.7",
+    "react-bootstrap": "1.4.3",
+    "react-dom": "^16.7",
+    "react-scripts": "2.1.5",
+    "yarn": "1.22.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
+  "devDependencies": {
+    "gh-pages": "^2.0.0"
+  },
+  "keywords": ["React"],
+  "description": ""
+}
